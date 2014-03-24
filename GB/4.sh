@@ -13,4 +13,5 @@ sudo chmod 0600 /swap
 echo "vm.swappiness=90" >> /etc/sysct1.conf
 echo "# ===================================================================== #"
 echo "# 4GB SWAP-Memory setup is COMPLETE!                                    #"
+echo "#                       *** RESTART REQUIRED ***                        #"
 echo "# ===================================================================== #"
